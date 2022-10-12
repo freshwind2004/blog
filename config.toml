@@ -1,5 +1,6 @@
 baseURL = '//log.nosame.live/'
 languageCode = 'zh-CN'
 title = 'NotTheSameLive Log'
+theme = 'papermod'
 publishDir = './docs/'
 copyright = '©2022 Copyright Martin Lee. 码钉的博客.'
