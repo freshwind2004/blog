@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on NotTheSameLive Log</title>
+    <link>//log.nosame.live/post/</link>
+    <description>Recent content in Posts on NotTheSameLive Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>©2022 Copyright Martin Lee. 码钉的博客.</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 21:51:09 +0800</lastBuildDate><atom:link href="//log.nosame.live/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>//log.nosame.live/post/hello/</link>
+      <pubDate>Wed, 12 Oct 2022 21:51:09 +0800</pubDate>
+      
+      <guid>//log.nosame.live/post/hello/</guid>
+      <description>看起来简单，实际上麻烦。</description>
+    </item>
+    
+  </channel>
+</rss>
