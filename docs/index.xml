@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>©2022 Martin Lee. 码钉的博客. 物我两相忘，寄情Coding间.</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 21:51:09 +0800</lastBuildDate><atom:link href="//log.nosame.live/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 20:16:56 +0800</lastBuildDate><atom:link href="//log.nosame.live/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hehe</title>
+      <link>//log.nosame.live/post/hehe/</link>
+      <pubDate>Thu, 13 Oct 2022 20:16:56 +0800</pubDate>
+      
+      <guid>//log.nosame.live/post/hehe/</guid>
+      <description>快乐总是比你想象的简单。</description>
+    </item>
+    
     <item>
       <title>Hello</title>
       <link>//log.nosame.live/post/hello/</link>
