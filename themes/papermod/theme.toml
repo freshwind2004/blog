@@ -38,6 +38,8 @@ features = [
   "search"
 ]
 min_version = "0.83.0"
+defaultTheme = auto
+comments = true
 
 [author]
   name = "Aditya Telange"
