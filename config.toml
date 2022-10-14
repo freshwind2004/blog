@@ -6,6 +6,8 @@ copyright = '©2022 Martin Lee. 码钉的博客. 物我两相忘，寄情Coding�
 env = 'production'
 keywords = 'Blog, Coding, Daily Life'
 author = 'Martin Lee'
+dateformat = '2006-01-02 3:4 pm'
+comments = true
 
 [taxonomies]
 tag = "tags"
