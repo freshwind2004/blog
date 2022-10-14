@@ -38,6 +38,16 @@ features = [
   "search"
 ]
 min_version = "0.83.0"
+
+DateFormat = '2006-01-02 3:4 pm'
+defaultTheme = 'auto'
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowWordCount = true
+showtoc = true
 comments = true
 
 [author]
