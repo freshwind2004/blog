@@ -2,7 +2,8 @@
 title: "总算成了 Hi there, Hugo"
 date: 2022-10-13T22:50:00+08:00
 draft: false
-categories : Development
+categories: Development
+tag ： "Go", "fast", "Blogging"
 ---
 
 > 规矩出的快，改得更快。于是网上的攻略就都失了效。
