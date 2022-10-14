@@ -1,5 +1,5 @@
 baseURL = '//log.nosame.live/'
-languageCode = 'zh-CN'
+languageCode = 'zh-hant'
 hasCJKLanguage = true
 title = '平凡之路 | No Same'
 theme = 'papermod'
