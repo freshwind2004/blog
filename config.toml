@@ -4,19 +4,8 @@ title = '平凡之路 | No Same'
 theme = 'papermod'
 copyright = '©2022 Martin Lee. 码钉的博客. 物我两相忘，寄情Coding间.'
 env = 'production'
-description = '"码钉的物我两相忘"'
 keywords = 'Blog, Coding, Daily Life'
 author = 'Martin Lee'
-images = ["<link or path of image for opengraph, twitter-cards>"]
-DateFormat = '2006-01-02 3:4 pm'
-defaultTheme = 'auto'
-ShowReadingTime = true
-ShowShareButtons = true
-ShowPostNavLinks = true
-ShowBreadCrumbs = true
-ShowCodeCopyButtons = true
-ShowWordCount = true
-showtoc = true
 
 [taxonomies]
 tag = "tags"
