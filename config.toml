@@ -9,8 +9,26 @@ enableEmoji = true
 [params]
   description = '物我两相忘'
   author = 'Martin Lee'
+  env = "production"
+  DateFormat = "2006-01-02 3:4 pm"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
   comments = true
-  showtoc = true
 
 [taxonomies]
   tag = "tags"
