@@ -26,6 +26,10 @@ hideSummary = false
 showtoc = true
 tocopen = false
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+
 [menu]
 [[menu.main]]
 identifier = 'categories'
