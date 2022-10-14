@@ -2,7 +2,7 @@ baseURL = '//log.nosame.live/'
 languageCode = 'zh'
 hasCJKLanguage = true
 title = '平凡之路 | No Same'
-theme = 'papermod'
+theme = 'paper'
 copyright = '©2022 Martin Lee. 码钉的博客. 物我两相忘，寄情Coding间.'
 enableEmoji = true
 
