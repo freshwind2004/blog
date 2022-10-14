@@ -1,5 +1,5 @@
 baseURL = '//log.nosame.live/'
-languageCode = 'zh-hant'
+languageCode = 'zh'
 hasCJKLanguage = true
 title = '平凡之路 | No Same'
 theme = 'papermod'
@@ -7,31 +7,22 @@ copyright = '©2022 Martin Lee. 码钉的博客. 物我两相忘，寄情Coding�
 enableEmoji = true
 
 [params]
-  description = '物我两相忘'
   author = 'Martin Lee'
   env = "production"
-  DateFormat = "2006-01-02 3:4 pm"
+  DateFormat = '2006-01-02 3:4 pm'
   defaultTheme = "auto"
-  disableThemeToggle = false
   ShowReadingTime = true
-  ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  ShowCodeCopyButtons = false
+  ShowCodeCopyButtons = true
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
-  UseHugoToc = true
-  disableSpecial1stPost = false
-  disableScrollToTop = false
-  hidemeta = false
-  hideSummary = false
-  showtoc = false
-  tocopen = false
+  showtoc = true
   comments = true
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
+  tag = 'tags'
+  category = 'categories'
 
 [[menu.main]]
   identifier = 'categories'
