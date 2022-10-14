@@ -1,3 +1,1 @@
-# freshwind2004.github.io
-
-我的博客
+Click [平凡之路](https://log.nosame.live/)
