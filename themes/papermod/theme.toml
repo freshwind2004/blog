@@ -39,28 +39,6 @@ features = [
 ]
 min_version = "0.83.0"
 
-env = 'production'
-description = '"码钉的物我两相忘"'
-author = 'Martin Lee'
-images = ["<link or path of image for opengraph, twitter-cards>"]
-DateFormat = "2006-01-02 3:4 pm"
-defaultTheme = "auto"
-ShowReadingTime = "true"
-ShowShareButtons = "true"
-ShowPostNavLinks = "true"
-ShowBreadCrumbs = "true"
-ShowCodeCopyButtons = "true"
-ShowWordCount = "true"
-ShowRssButtonInSectionTermList = "true"
-UseHugoToc = "true"
-disableSpecial1stPost = "false"
-disableScrollToTop = "false"
-comments = "true"
-hidemeta = "false"
-hideSummary = "false"
-showtoc = "true"
-tocopen = "false"
-
 [author]
   name = "Aditya Telange"
   homepage = "https://github.com/adityatelange/"
