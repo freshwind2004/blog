@@ -3,14 +3,14 @@ title: "总算成了 Hi there, Hugo"
 date: 2022-10-13T22:50:00+08:00
 draft: false
 categories: Development
-tags: [Go, fast, Blogging]
+tags: [hugo, actions, github, automation, 自动化]
 ---
 
-> 规矩出的快，改得更快。于是网上的攻略就都失了效。
+终于实现Hugo的自动更新，在Github网页端编辑博客内容，透过Github Actions功能就可以自动渲染出静态网页，终于实现了博客“自动化”。
 
-我不是说_官老爷_朝令夕改。而是**Github**的功能迭代太快。
+话说回来，用Hugo、Hexo写写博客，总有种大炮打蚊子的赶脚。既可笑，又无奈。
 
-关于使用Github Actions更新Hugo的代码大都没法用，反复测试了许久，正确的打开方式如下：
+**Github**的功能迭代太快。关于使用Github Actions更新Hugo的代码大都没法用，反复测试了许久，正确的打开方式如下：
 
 1. 进入Repo->Pages选项，将Build and deployment改为“Github Actions”
 2. 在新弹出的编辑界面贴上下面的代码
