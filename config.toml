@@ -1,7 +1,7 @@
 baseURL = '//log.nosame.live/'
 languageCode = 'zh'
 hasCJKLanguage = true
-title = '平凡之路 | No Same'
+title = '平凡之路 | Normalized Pathway'
 theme = 'papermod'
 copyright = '©2022 Martin Lee. 码钉的博客. 物我两相忘，寄情Coding间.'
 enableEmoji = true
@@ -25,19 +25,19 @@ enableEmoji = true
   category = 'categories'
 
 [[menu.main]]
-  identifier = 'categories'
+  identifier = '分类'
   name = 'categories'
   url = '/categories/'
   weight = 10
 
 [[menu.main]]
-  identifier = 'tags'
+  identifier = '标签'
   name = 'tags'
   url = '/tags/'
   weight = 20
 
 [[menu.main]]
-  identifier = 'example'
-  name = 'example.org'
-  url = 'https://example.org'
+  identifier = '搜索'
+  name = 'duckduckgo'
+  url = 'https://duckduckgo.com'
   weight = 30
