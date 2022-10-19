@@ -6,6 +6,7 @@ categories: Development
 tags: [hugo, actions, github, automation, 自动化]
 ---
 
+
 终于实现Hugo的自动更新，在Github网页端编辑博客内容，透过Github Actions功能就可以自动渲染出静态网页，终于实现了博客“自动化”。
 
 话说回来，用Hugo、Hexo写写博客，总有种大炮打蚊子的赶脚。既可笑，又无奈。
