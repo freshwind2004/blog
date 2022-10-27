@@ -1,3 +1,10 @@
+---
+title: "图形可视化"
+date: 2022-10-27T17:54:00+08:00
+draft: false
+tags: ['Qt','Python','可视化']
+---
+
 # Qt from Nokia
 
 Qt 居然源自于诺基亚。
