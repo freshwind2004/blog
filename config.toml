@@ -247,6 +247,8 @@ summaryLength = 140
       Weibo = true
       Baidu = true
     # FixIt 0.2.15 | 更改 评论系统设置
+    [params.page.comment]
+      enable = true
 
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu/360/Sogou
   [params.verification]
