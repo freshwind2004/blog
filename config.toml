@@ -197,8 +197,6 @@ summaryLength = 140
     linkToMarkdown = false
     # FixIt 0.2.4 | 新增 是否在 RSS 中显示全文内容
     rssFullText = false
-    # FixIt 0.2.13 | 新增 页面样式 ["narrow", "normal", "wide", ...]
-    pageStyle = "narrow"
     # FixIt 0.2.14 | 新增 强制使用 Gravatar 作为作者头像
     gravatarForce = false
     # FixIt 0.2.17 | 更改 开启自动书签支持
