@@ -3,7 +3,7 @@ languageCode = 'zh'
 defaultContentLanguage = "zh-cn"
 hasCJKLanguage = true
 title = '平凡之路'
-theme = 'fixit'
+theme = 'loveit'
 summaryLength = 140
 
 [menu]
