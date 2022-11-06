@@ -10,13 +10,8 @@ description: ""
 keywords: ""
 weight: 0
 
-tags:
-- 随笔
-- 快乐
-- 本质
-- 追求
-categories:
-- Thought
+tags: ['随笔','快乐','本质','追求']
+categories: ['Thought']
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

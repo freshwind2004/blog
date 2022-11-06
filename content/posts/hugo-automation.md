@@ -1,6 +1,6 @@
 ---
 title: "Hugo的云端自动化更新"
-subtitle: ""
+subtitle: "静态博客托管简化更新步骤"
 date: 2022-10-13T22:00:00+08:00
 draft: false
 author: ""
@@ -10,14 +10,8 @@ description: ""
 keywords: ""
 weight: 0
 
-tags:
-- hugo
-- actions
-- github
-- automation
-- 自动化
-categories:
-- Development
+tags: ['hugo','actions','github','automation','自动化']
+categories: ['Development']
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -31,7 +25,7 @@ resources:
 
 ---
 
-# 前言
+## 前言
 
 所谓Hugo的自动更新，就是抛开本地端，在Github网页端编辑博客内容，透过Github Actions功能就可以自动渲染出静态网页，终于实现了博客“自动化”。
 
@@ -43,7 +37,7 @@ resources:
 
 好在，Github为我们提供了一种自动化的方案。那就是在云端再进行一次“页面生成”。这一项工作是通过Github Actions完成的。Github Actions根据用户的指令，在云端执行和本地同样的工作。我们就又可以抛弃本地端了。
 
-# 解决问题
+## 解决问题
 
 **Github**的功能迭代太快。关于使用Github Actions更新Hugo的代码大都没法用。
 
@@ -52,7 +46,7 @@ resources:
 1. 进入Repo->Pages选项，将Build and deployment方式更改为“Github Actions”
 2. 在新弹出的编辑界面贴上下面的代码
 
-# 代码
+## 代码
 
 ```yml
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
@@ -107,11 +101,11 @@ jobs:
 
 2022年10月测试通过。时间久了可能就又不通了。
 
-# 然后
+## 然后
 
 当你成功部署了以上Github Actions之后，你需要在./content目录下手工新建.md文档创建新的文章，或者编辑./content目录下已经存在的文章。保存后，Github Actions便会执行一次“生成”作业，使得静态页面得以更新。
 
-# 感想
+## 感想
 
 补充几句。
 

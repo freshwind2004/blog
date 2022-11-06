@@ -10,10 +10,8 @@ description: ""
 keywords: ""
 weight: 0
 
-tags:
-- 诗
-categories:
-- Diary
+tags: ['诗']
+categories: ['Diary']
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

@@ -1,6 +1,6 @@
 ---
-title: "什么事商务拓展"
-subtitle: ""
+title: "什么是商务拓展"
+subtitle: "创业者必须掌握的业务技能"
 date: 2022-11-01T21:00:00+08:00
 draft: false
 author: ""
@@ -10,14 +10,8 @@ description: ""
 keywords: ""
 weight: 0
 
-tags:
-- 商业
-- 业务
-- 经营
-- 企业管理
-
-categories:
-- Study
+tags: ['商业','业务','经营','企业管理']
+categories: ['Study']
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

@@ -10,13 +10,8 @@ description: ""
 keywords: ""
 weight: 0
 
-tags:
-- 博客
-- 历史
-- 起源
-- 记录
-categories:
-- Diary
+tags: ['博客','历史','起源','记录']
+categories: ['Diary']
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

@@ -10,14 +10,8 @@ description: ""
 keywords: ""
 weight: 0
 
-tags:
-- 信息
-- 价格
-- 金融
-- 经济
-- 理论研究
-categories:
-- Study
+tags: ['信息','价格','金融','经济','理论研究']
+categories: ['Study']
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
