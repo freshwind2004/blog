@@ -1,5 +1,5 @@
 baseURL = '//log.nosame.live/'
-theme = "LoveIt"
+theme = "loveit"
 title = "平凡之路"
 languageCode = "zh-CN"
 languageName = "简体中文"
