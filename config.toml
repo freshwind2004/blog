@@ -387,9 +387,9 @@ enableEmoji = true
       Flipboard = false
       Weibo = true
       Blogger = false
-      Baidu = false
+      Baidu = true
       Odnoklassniki = false
-      Evernote = false
+      Evernote = true
       Skype = false
       Trello = false
       Mix = false
@@ -475,8 +475,8 @@ enableEmoji = true
         mapping = "pathname"
         reactionsEnabled = "1"
         emitMetadata = "0"
-        inputPosition = "bottom"
-        lazyLoading = false
+        inputPosition = "top"
+        lazyLoading = true
         lightTheme = "light"
         darkTheme = "dark"
     # LoveIt 新增 | 0.2.7 第三方库配置
@@ -497,8 +497,8 @@ enableEmoji = true
       images = []
       # 出版者信息
       [params.page.seo.publisher]
-        name = ""
-        logoUrl = ""
+        name = "Martin Publish House"
+        logoUrl = "/logo.png"
 
   # LoveIt 新增 | 0.2.5 TypeIt 配置
   [params.typeit]
