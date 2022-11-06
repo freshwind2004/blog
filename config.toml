@@ -249,6 +249,20 @@ summaryLength = 140
     # FixIt 0.2.15 | 更改 评论系统设置
     [params.page.comment]
       enable = true
+      # FixIt 0.2.14 | 新增 Giscus 评论系统设置
+      [params.page.comment.giscus]
+        enable = true
+        repo = "freshwind2004/freshwind2004.github.io"
+        repoId = "R_kgDOIM0fPw"
+        category = "Comments"
+        categoryId = "DIC_kwDOIM0fP84CSODg"
+        mapping = "pathname"
+        reactionsEnabled = "1"
+        emitMetadata = "0"
+        inputPosition = "top" # top, bottom
+        lightTheme = "light"
+        darkTheme = "dark"
+        lazyLoad = true
 
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu/360/Sogou
   [params.verification]
