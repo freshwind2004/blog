@@ -102,7 +102,7 @@ enableEmoji = true
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
   description = "这是平凡之路"
   # 网站图片, 用于 Open Graph 和 Twitter Cards
-  images = ["/logo.png"]
+  images = ["/blog/static/logo.png"]
 
   # 页面头部导航栏配置
   [params.header]
@@ -113,7 +113,7 @@ enableEmoji = true
     # LoveIt 新增 | 0.2.0 页面头部导航栏标题配置
     [params.header.title]
       # LOGO 的 URL
-      logo = "/logo.png"
+      logo = "/blog/static/logo.png"
       # 标题名称
       name = "平凡之路"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
@@ -206,7 +206,7 @@ enableEmoji = true
       # Gravatar 邮箱，用于优先在主页显示的头像
       gravatarEmail = ""
       # 主页显示头像的 URL
-      avatarURL = "/static/avatar.png"
+      avatarURL = "/blog/static/avatar.png"
       # LoveIt 更改 | 0.2.7 主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # 主页显示的网站副标题 (允许 HTML 格式)
@@ -498,7 +498,7 @@ enableEmoji = true
       # 出版者信息
       [params.page.seo.publisher]
         name = "Martin Publish House"
-        logoUrl = "/static/logo.png"
+        logoUrl = "/blog/static/logo.png"
 
   # LoveIt 新增 | 0.2.5 TypeIt 配置
   [params.typeit]
