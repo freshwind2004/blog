@@ -1,4 +1,4 @@
-baseURL = '//freshwind2004.github.io/nosame.live/'
+baseURL = '//freshwind2004.github.io/blog/'
 theme = "loveit"
 title = "平凡之路"
 languageCode = "zh-CN"
@@ -206,7 +206,7 @@ enableEmoji = true
       # Gravatar 邮箱，用于优先在主页显示的头像
       gravatarEmail = ""
       # 主页显示头像的 URL
-      avatarURL = "/avatar.png"
+      avatarURL = "/static/avatar.png"
       # LoveIt 更改 | 0.2.7 主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # 主页显示的网站副标题 (允许 HTML 格式)
@@ -498,7 +498,7 @@ enableEmoji = true
       # 出版者信息
       [params.page.seo.publisher]
         name = "Martin Publish House"
-        logoUrl = "/logo.png"
+        logoUrl = "/static/logo.png"
 
   # LoveIt 新增 | 0.2.5 TypeIt 配置
   [params.typeit]
